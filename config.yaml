@@ -1,0 +1,27 @@
+username: anandeshsharma@gmail.com 
+password: Rock0004@ 
+phone_number: 999694493
+
+positions: 
+- Python Engineer
+# - # Another position you want to search for
+# - # A third position you want to search for
+
+locations: 
+- Remote
+
+# --------- Optional Parameters -------
+# uploads:
+#  Resume: # PATH TO Resume 
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+#blackListTitles:
+#- # Add job titles you want to ignore
